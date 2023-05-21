@@ -1,0 +1,12 @@
+{
+  "name": "lesson_6_todo_app_json_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "json-server -w db.json -p=3500"
+  },
+  "keywords": [],
+  "author": "prodbyulag@gmail.com",
+  "license": "ISC"
+}
